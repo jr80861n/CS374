@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConversionJoeRiosV#3</string>
+    <string name="Currency_euros">Enter the amount in euros</string>
+    <string name="enter_in_euros">Enter in euros</string>
+    <string name="convert_to_usd">Convert to USD</string>
+    <string name="developed_by_joe_rios">Developed by Joe Rios</string>
+</resources>
